@@ -32,7 +32,7 @@ main {
 }
 
 #star {
-    max-width:1068px;
+    max-width:60px;
 }
 
 h1 {
@@ -84,7 +84,7 @@ h1 {
     justify-content:space-between;
 }
 
-@media(max-width:700px) {
+@media(max-width:1068px) {
     body {
         background-image:url(background-pattern-mobile.svg);
         background-repeat:no-repeat;
